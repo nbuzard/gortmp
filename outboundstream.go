@@ -5,7 +5,7 @@ package gortmp
 import (
 	"errors"
 	"github.com/zhangpeihao/goamf"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 type OutboundStreamHandler interface {

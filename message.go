@@ -4,7 +4,7 @@ package gortmp
 
 import (
 	"bytes"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 // Message

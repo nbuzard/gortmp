@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/zhangpeihao/goamf"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 type InboundStreamHandler interface {

@@ -9,7 +9,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/zhangpeihao/goamf"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 	"net"
 	"time"
 )

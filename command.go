@@ -4,7 +4,7 @@ package gortmp
 
 import (
 	"github.com/zhangpeihao/goamf"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 // Command

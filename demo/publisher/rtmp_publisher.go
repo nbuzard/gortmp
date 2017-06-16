@@ -8,7 +8,7 @@ import (
 
 	"github.com/zhangpeihao/goflv"
 	rtmp "github.com/zhangpeihao/gortmp"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 const (

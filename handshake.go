@@ -15,7 +15,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 const (

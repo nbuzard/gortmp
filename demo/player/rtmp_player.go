@@ -13,7 +13,7 @@ import (
 
 	"github.com/nbuzard/goflv"
 	rtmp "github.com/zhangpeihao/gortmp"
-	"gitbub.com/nbuzard/log"
+	"github.com/nbuzard/log"
 )
 
 const (

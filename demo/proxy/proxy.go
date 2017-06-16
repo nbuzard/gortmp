@@ -7,7 +7,7 @@ import (
 	"flag"
 	"fmt"
 	rtmp "github.com/zhangpeihao/gortmp"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 	"io"
 	"net"
 	"os"

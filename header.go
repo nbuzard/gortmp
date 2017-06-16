@@ -5,7 +5,7 @@ package gortmp
 import (
 	"encoding/binary"
 	"errors"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 )
 
 // RTMP Chunk Header

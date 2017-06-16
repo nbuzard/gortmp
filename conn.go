@@ -8,7 +8,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"github.com/zhangpeihao/goamf"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 	"io"
 	"net"
 	"sync"

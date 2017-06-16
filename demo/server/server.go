@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/zhangpeihao/goflv"
 	rtmp "github.com/zhangpeihao/gortmp"
-	"github.com/zhangpeihao/log"
+	"github.com/nbuzard/log"
 	"os"
 	"os/signal"
 	"syscall"

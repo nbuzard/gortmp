@@ -11,9 +11,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/zhangpeihao/goflv"
+	"github.com/nbuzard/goflv"
 	rtmp "github.com/zhangpeihao/gortmp"
-	"github.com/zhangpeihao/log"
+	"gitbub.com/nbuzard/log"
 )
 
 const (

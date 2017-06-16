@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/nbuzard/goflv"
-	rtmp "github.com/zhangpeihao/gortmp"
+	rtmp "github.com/nbuzard/gortmp"
 	"github.com/nbuzard/log"
 )
 
